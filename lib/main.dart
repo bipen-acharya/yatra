@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:yatra/utils/colors.dart';
-import 'package:yatra/views/dashboard/profile_screen.dart';
 import 'package:yatra/views/splash_screen.dart';
 
 void main() {

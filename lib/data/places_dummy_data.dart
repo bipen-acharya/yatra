@@ -27,6 +27,6 @@ final List<TravelPlaces> travelPalces = [
   ),
 ];
 
-final List<ServiceProvider>serviceProviderData=[
+final List<ServiceProvider> serviceProviderData = [
   ServiceProvider(name: "name", time: "time")
 ];
